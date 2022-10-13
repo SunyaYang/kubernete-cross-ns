@@ -1,0 +1,1 @@
+# kubernete-cross-ns
