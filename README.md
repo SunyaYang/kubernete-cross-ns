@@ -9,4 +9,4 @@
 4.重新build image並打包至docker hub(新版號)
   
 
-另外給App開了NodePort，讓外部可使用NodePort連App Web而不用再手動開proxy
+5.另外給App開了NodePort，讓外部可使用NodePort連App Web而不用再手動開proxy
